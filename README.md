@@ -11,6 +11,12 @@
 - <b>Interest Calculator App with Flutter</b>
   - [Implementing an interest calculator mobile app with Flutter and Firebase](https://github.com/DOTcodez/Interest-Calculator-Flutter)
 
+<h2>Algorithm and Datastructures Practice:</h2>
+
+- <b>Air Travel Simulator</b>
+  - [Python Script to navigate the world map using coordinate points](https://github.com/DOTcodez/Air-Travel-Simulator)
+  
+
 <h2>📺 Popular Articles</h2>
 
 - [Is Flutter the Panacea in Cross Platform Game Development??](https://hackernoon.com/is-flutter-the-panacea-in-cross-platform-game-development)
@@ -18,7 +24,6 @@
 - [Mobile App Debugging Explained on 3 Levels of Difficulty](https://hackernoon.com/mobile-app-debugging-explained-on-3-levels-of-difficulty)
 
 <h2> 🤳 Connect with me:</h2>
-
 
 [twitter]: https://twitter.com/IfediorahOliver
 [facebook]: https://www.facebook.com//IfediorahOliverEmeka
