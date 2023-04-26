@@ -1,6 +1,11 @@
-<h1>Hi, I'm Oliver! <br/><a href="https://github.com/DOTcodez">React and Nodejs Developer</a>, <a href="https://hackernoon.com/u/oliveremeka">Web 3 Writer</a></h1>
+<h1>Hi, I'm Oliver! <br/><a href="https://github.com/DOTcodez">React and Nodejs Developer</a>, <a href="https://hackernoon.com/u/oliveremeka">Web 3 Writer and Enthusiast</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
+
+- <b>[MERN stack excercise tracker app](https://github.com/DOTcodez/Interest-Calculator-Flutter)</b>
+  - The app reads in form data which it handles with useRef hook from react.
+  - Data is handled by mongoose library through schema definition and backend routing before it is stored on mongodb.
+  - Backend was inplemented with Express framework.
 
 - <b>[React Meals App with API data](https://github.com/DOTcodez/Chat-App)</b>
   - I Implemented a meals app with search functionality and random meal generation capability. 
@@ -11,16 +16,14 @@
   - The logic for the application is written with Javascript
   
 - <b>[React website app]()</b>
-  - 
+  - I implemented a fully responsive website frontend with react, HTML and CSS
+  - Website includes navigation to several pages through react router dom and hooks (useState and useEffect)
+
   
 - <b>[Team Management App to organise team data](https://github.com/DOTcodez/Notes-App)</b>
   - I Implemented a team management app with React with organises team members with a simple UI
   - Its a responsive single page application with two links implemented with react-router-dom
   
-- <b>[I implemented a MERN stack excercise tracker app with](https://github.com/DOTcodez/Interest-Calculator-Flutter)</b>
-  - The app reads in form data which it handles with useRef hook from react.
-  - Data is handled by mongoose library through schema definition and backend routing before it is stored on mongodb.
-  - Backend was inplemented with Express framework.
 
 <h2>Algorithm and Datastructures:</h2>
 - <b>[Air Travel Simulator](https://github.com/DOTcodez/Air-Travel-Simulator)</b>
