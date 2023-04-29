@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>[MERN stack excercise tracker app](https://github.com/DOTcodez/Interest-Calculator-Flutter)</b>
+- <b>[MERN stack excercise tracker app](https://github.com/DOTcodez/MERN-Stack-App)</b>
   - The app reads in form data which it handles with useRef hook from react.
   - Data is handled by mongoose library through schema definition and backend routing before it is stored on mongodb.
   - Backend was inplemented with Express framework.
 
-- <b>[React Meals App with API data](https://github.com/DOTcodez/Chat-App)</b>
+- <b>[React Meals App with API data](https://github.com/DOTcodez/React-Meals-App)</b>
   - I Implemented a meals app with search functionality and random meal generation capability. 
   - The meals data is loaded from TheMealDB.com API with axios library.
   - React context librabry is used for global data handling while useState and UseEffect hooks are used for modular state management.
@@ -15,12 +15,12 @@
   - The UI of the single page application is fully responsive and is rendered with CSS and Bootstrap
   - The logic for the application is written with Javascript
   
-- <b>[React website app]()</b>
+- <b>[React website app](https://github.com/DOTcodez/React-Website)</b>
   - I implemented a fully responsive website frontend with react, HTML and CSS
   - Website includes navigation to several pages through react router dom and hooks (useState and useEffect)
 
   
-- <b>[Team Management App to organise team data](https://github.com/DOTcodez/Notes-App)</b>
+- <b>[Team Management App to organise team data](https://github.com/DOTcodez/React-Team-Members-App)</b>
   - I Implemented a team management app with React with organises team members with a simple UI
   - Its a responsive single page application with two links implemented with react-router-dom
   
