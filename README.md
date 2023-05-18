@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oliver! <br/><a href="https://github.com/DOTcodez">React and Nodejs Developer</a>, <a href="https://hackernoon.com/u/oliveremeka">Web 3 Writer and Enthusiast</a></h1>
+<h1>Hi, I'm Oliver! <br/><a href="https://github.com/DOTcodez">React, Nodejs and Solidity Developer</a>, <a href="https://hackernoon.com/u/oliveremeka">Web 3 Writer and Enthusiast</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
@@ -20,13 +20,23 @@
   - Website includes navigation to several pages through react router dom and hooks (useState and useEffect)
 
   
-- <b>[Team Management App to organise team data](https://github.com/DOTcodez/React-Team-Members-App)</b>
+- <b>[React Team Management App to organise team data](https://github.com/DOTcodez/React-Team-Members-App)</b>
   - I Implemented a team management app with React with organises team members with a simple UI
   - Its a responsive single page application with two links implemented with react-router-dom
   
 
-<h2>Algorithm and Datastructures:</h2>
-- <b>[Air Travel Simulator](https://github.com/DOTcodez/Air-Travel-Simulator)</b>
+<h2>Smart Contracts, Algorithms and Datastructures:</h2>
+
+-<b>[Yield Farming Bank Contract](https://github.com/DOTcodez/Yield-Farming-Contract/tree/main/Yield%20Farming%20Contract)</b>
+  - [Smart contract in Solidity for mock tether token to be staked in a "decentralized bank" and reward token to be assigned]
+  
+-<b>[WIll Contract](https://github.com/DOTcodez/Smart_Contract_Will/tree/main/Will%20Contract))</b>
+  - [Smart contract in Solidity to manage and implement a will once the testator dies]
+  
+-<b>[Fund me contract](https://github.com/DOTcodez/Fund_Me_Contract/tree/main/Fund%20Me%20Contract)</b>
+  - [Smart contract in solidity to raise funds]
+  
+-<b>[Air Travel Simulator](https://github.com/DOTcodez/Air-Travel-Simulator)</b>
   - [I Implemented a Python Script to navigate the world map using coordinate points]
   
 
