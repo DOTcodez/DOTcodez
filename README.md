@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oliver! <br/><a href="https://github.com/DOTcodez">React, Nodejs and Solidity Developer</a>, <a href="https://hackernoon.com/u/oliveremeka">Web 3 Writer and Enthusiast</a></h1>
+<h1>Hi, I'm Oliver! <br/><a href="https://github.com/DOTcodez">React, Nodejs and Solidity Developer</a>, <a href="https://hackernoon.com/u/oliveremeka"> and Technical Content Writer </a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
